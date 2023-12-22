@@ -1,4 +1,8 @@
+rm -rf Block
 git clone https://github.com/FarhadBadakhsh/Block
+
 cd Block 
+
 ls
-python Farhad Badakhsh.py
+
+python 'Farhad Badakhsh.py'
