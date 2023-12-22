@@ -1,7 +1,6 @@
-rm -rf Block
-git clone https://github.com/FarhadBadakhsh/Block
+rm -rf Block git clone https://github.com/FarhadBadakhsh/Block
 
-cd Block 
+cd Block
 
 ls
 
